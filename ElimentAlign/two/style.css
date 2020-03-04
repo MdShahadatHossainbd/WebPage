@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+section {
+  position: relative;
+  height: 100vh;
+  background: #1c3431;
+}
+.box {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width: 200px;
+  height: 200px;
+  background: #ff005c;
+}
